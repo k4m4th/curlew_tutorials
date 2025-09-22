@@ -1,0 +1,10 @@
+ply
+format binary_little_endian 1.0
+element vertices 13
+property double x
+property double y
+property double z
+element scalar_SF1 13
+property float scalar_SF1
+end_header
+ˆ,d¾Øa@A½é]d¤AÀ³7½	4@èy·–Ûa@Ã0}‡AÀ¦ªª¢ƒ+4@ûµ‡¼}âa@4Jø©OAÀ9.+¦`U4@Œ.º„-ìa@3ºè~AAÀï¢‹îùp4@±[0nõa@¿»»kÀì@ÀÔq—à†4@ûRÓ$ûa@peŸÃáÌ@ÀK‡Ôäì—4@ìJÔ®’eb@çcPĞÌ=ÀÍµ+N×5@:±k4kb@Hƒ4¸l =À«Ad-ê5@™oùæüub@Ò -ùF=ÀĞ‰¸À6@›Á‰=€b@Ûcp^Ìç<ÀIíJÔX46@?Ïó„ïˆb@	†aÀö‰<Ài†¢f6@¢„7:Ë‘b@ÍÔùµì+<Àà×r±6@ÆYùéóšb@5°w,dÕ;ÀwBœõ¯Í6@š™±Aš™±Aš™±Aš™±Aš™±Aš™±Aš™±Aš™±Aš™±Aš™±Aš™±Aš™±Aš™±A
